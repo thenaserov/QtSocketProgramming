@@ -1,5 +1,6 @@
 # QtSocketProgramming
 ![alt text](https://github.com/thenaserov/QtSocketProgramming/blob/main/res/networking.gif)
+
 I intend to to learn Qt Networking properly!
 This repository contains simple examples.
 
